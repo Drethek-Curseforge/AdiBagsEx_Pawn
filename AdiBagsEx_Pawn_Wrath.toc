@@ -1,0 +1,7 @@
+## Interface: 30403
+## Title: AdiBagsEx - Pawn
+## Notes: Adds a Pawn upgrade filter to AdiBagsEx.
+## Author: Lizrael
+## Version: 1.6.0
+## Dependencies: AdiBagsEx, Pawn
+AdiBagsEx_Pawn.lua
