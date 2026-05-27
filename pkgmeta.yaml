@@ -1,0 +1,5 @@
+package-as: AdiBagsEx_Pawn
+
+required-dependencies:
+  - adibagsex
+  - pawn
