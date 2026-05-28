@@ -1,5 +1,6 @@
 ## Interface: 50500
 ## Title: AdiBagsEx - Pawn
+## IconAtlas: bag-main
 ## Notes: Adds a Pawn upgrade filter to AdiBagsEx.
 ## Author: Lizrael
 ## Version: 1.6.2
